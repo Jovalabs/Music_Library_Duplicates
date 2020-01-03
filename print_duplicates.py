@@ -3,9 +3,9 @@ import re
 import os
 
 
-IN_FILE = 'part2.csv'
+IN_FILE = 'Name_File.csv'
 
-CLEAN_FILE = 'part2_clean.csv'
+CLEAN_FILE = 'Name_File_clean.csv'
 
 
 all_source_files = set()
